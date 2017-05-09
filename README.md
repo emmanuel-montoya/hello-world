@@ -2,9 +2,7 @@
 <html>
 <body>
 
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p>
-<p>This is a paragraph.</p>
+<p>ga paragraph.</p>
 
 </body>
 </html>
